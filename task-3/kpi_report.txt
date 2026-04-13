@@ -1,0 +1,56 @@
+Task 3: KPI Report
+
+Dataset: Video Game Sales Dataset
+
+Overview:
+This report defines the key performance indicators (KPIs) used to analyze the video game sales dataset. The KPIs provide insights into overall performance, popular categories, and trends in the gaming industry.
+
+--------------------------------------------------
+
+1. Total Global Sales
+Definition:
+Sum of all video game sales across regions.
+
+Value:
+6605.91
+
+--------------------------------------------------
+
+2. Average Sales per Game
+Definition:
+Average sales value across all games.
+
+Value:
+0.103
+
+--------------------------------------------------
+
+3. Top Genre by Sales
+Definition:
+Genre with the highest total sales.
+
+Value:
+Sports
+
+--------------------------------------------------
+
+4. Top Platform by Sales
+Definition:
+Platform with the highest total sales.
+
+Value:
+PS2
+
+--------------------------------------------------
+
+5. Average Critic Score
+Definition:
+Average rating given by critics.
+
+Value:
+7.22
+
+--------------------------------------------------
+
+Conclusion:
+The dataset shows that Sports is the most dominant genre and PS2 is the leading platform in terms of sales. Most games have relatively low sales, and critic scores do not strongly influence overall sales performance.
